@@ -22,3 +22,8 @@ h1 {
     width: 70px;
     margin: 8px auto;
 }
+
+.item a {
+    display: flex;
+    justify-content: center;
+}
